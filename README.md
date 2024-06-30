@@ -1,5 +1,5 @@
 # trans-shipment-LP-problem
-To minimize the shipping cost while meeting the Supply and Demand constraints from Plants to Warehouses (trans-shipment nodes) to Destinations \
+To minimize the shipping cost while meeting the Supply and Demand constraints from Plants to Warehouses (trans-shipment nodes) to Destinations 
 
  1. original problem statement from https://www.youtube.com/watch?v=ABMPgSApdUw    
 ![image](https://github.com/gaurinotgauri/trans-shipment-LP-problem/assets/141415752/8c8c68c3-6a7d-4bcb-857d-92ffd7bcc2eb)
